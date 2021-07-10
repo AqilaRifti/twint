@@ -1,2 +1,2 @@
 # twint
-Twint, Next gen package manager
+Twint, Next gen project manager
